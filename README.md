@@ -5,6 +5,7 @@ The purpose of the analysis is to determine if the surf and ice-cream shop busin
 * The first thing we should know is the counts are different, June has more data than December. That may causes the result inaccurate.
 <img width="154" alt="Screen Shot 2021-10-16 at 8 29 04 PM" src="https://user-images.githubusercontent.com/88211298/137609738-34328737-ec8b-41e8-825c-f89a78e6e7d5.png">
 <img width="189" alt="Screen Shot 2021-10-16 at 8 30 09 PM" src="https://user-images.githubusercontent.com/88211298/137609756-4bf0073c-c4dd-41bd-b06b-23fd752fd61d.png">
+
 * December has higher standard deviation than June which means December can change the weather more dramatically than June.
 
 * December is colder than June in average. 
